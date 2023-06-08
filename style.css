@@ -1,0 +1,21 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 25px;
+  border: 2px solid black;
+  width: 291px;
+  margin-left: 429px;
+  padding: 40px;
+  background-color: aqua;
+}
+
+.celsius-container {
+  display: flex;
+  flex-direction: column;
+}
+.fahrenheit-container {
+  display: flex;
+  flex-direction: column;
+}
